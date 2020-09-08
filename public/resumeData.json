@@ -87,10 +87,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "React TodoList",
+        "category": "A React app on todoList with Firebase",
+        "image": "Todolist.png",
+        "url": "https://react-todolist-app1.netlify.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
