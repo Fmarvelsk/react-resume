@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Marvellous Filani",
+    "occupation": "Full Stack Developer || Cloud Engineer",
+    "description": "React Developer && Backend Developer",
+    "image": "Marv-profile.jpg",
+    "bio": "Hi I'm Fmarvelsk a student of the Obafemi Awolowo University, from the department of computer science and engineering.Born in the year 1998 on the 26th of october.Am an indigeon of ikole-ekiti, My hobbies includes programming, playing basketball and reading books.I chose to study engineering because i am intrested in the fast growing technological advancement and how i can learn and help in it continual advancement.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "fmarvelsk@gmail.com",
+    "phone": "+234 8109621468",
+    "address": {
+      "street": "O.A.U Staff quarters",
+      "city": "Ife",
+      "state": "Osun",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "./",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/okanoluwa/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/fmarvelsk/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/fmarvelsk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Obafemi Awolowo University",
+        "degree": "Bachelor Degree in Computer Science & Engineering",
+        "description": "2015 - 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cyber Security Research Lab & Software Engineering",
+        "title": "Team Member && Software Developer",
+        "years": "Feb 2018 - Present",
+        "description": "Worked as their Software Developer."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have worked with him and he is a guy who is commited to working and solving real time problem",
+        "user": "Adekunle Samuel"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
